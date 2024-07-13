@@ -10,16 +10,13 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-* {
-  box-sizing: border-box;
-}
+
 
 body {
   margin: 0;
+  padding: 30px;
   display: flex;
-  place-items: center;
-  min-width: 320px;
-  min-height: 100vh;
+  justify-content: center;
 }
 
 h1,
@@ -30,6 +27,7 @@ h5,
 h6,
 p {
   margin: 0;
+  text-align: center;
 }
 
 ul,

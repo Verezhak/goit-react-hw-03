@@ -1,0 +1,18 @@
+.searchBox {
+    margin-bottom: 20px;
+    padding: 30px;
+
+    label {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        font-weight: 500;
+        color: green;
+
+        input {
+            padding: 8px;
+            border-radius: 6px;
+            border-color: aquamarine;
+        }
+    }
+}

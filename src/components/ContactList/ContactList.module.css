@@ -1,0 +1,8 @@
+.list {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    gap: 20px;
+    padding: 30px;
+    box-shadow: 0 0 4px 4px rgb(199, 239, 199);
+}
